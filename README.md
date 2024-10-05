@@ -3,6 +3,6 @@
 </div>
 <div id="badges">
   <a href="https://vk.com/invite/AMKGDq4">
-    <img src="https://img.shields.io/badge/VK-Secta-blue?style=for-the-badge&logo=twitter&logoColor=white)" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/Sicret-red?style=for-the-badge&logo=twitter&logoColor=white)" alt="LinkedIn Badge"/>
   </a>
 </div>
