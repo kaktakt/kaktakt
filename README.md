@@ -6,6 +6,6 @@
     <img src="https://img.shields.io/badge/Sicret-red?style=for-the-badge&logo=twitter&logoColor=white)" alt="LinkedIn Badge"/>
   </a>
 </div>
-<div align="center">
+<div id="badges" align="center">
   <img src="https://media.giphy.com/media/kAm4u0lhDCmXnugz6p/giphy.gif?cid=ecf05e47cbce8folpuwbvy03hxjje1kn3e36ribz9ly86y6b&ep=v1_gifs_related&rid=giphy.gif&ct=ts" width="600" height="300"/>
 </div>
