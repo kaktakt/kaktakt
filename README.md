@@ -12,8 +12,4 @@
 
 ---
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kaktakt&theme=dark&hide_border=true&border_radius=0&locale=ru&date_format=j%2Fn%5B%2FY%5D&card_width=490)](https://git.io/streak-stats)
-
----
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaktakt&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
